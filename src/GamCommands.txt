@@ -190,7 +190,7 @@ If an item contains spaces, it should be surrounded by ".
 <FilterID> ::= <Sttring>
 <FloorName> ::= <String>
 <GroupItem> ::= <EmailAddress>|<UniqueID>|<String>
-<GroupRole> :;= owner|manager|member
+<GroupRole> ::= owner|manager|member
 <GuardianItem> ::= <EmailAddress>|<UniqueID>|<String>
 <GuardianInvitationID> ::= <String>
 <HoldItem> ::= <UniqueID>|<String>
